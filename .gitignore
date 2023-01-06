@@ -1,0 +1,3 @@
+.venv/
+
+src/tests/__pycache__/
